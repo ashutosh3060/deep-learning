@@ -1,0 +1,9 @@
+# Resources
+
+https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
+https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd
+https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee
+https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832
+https://towardsdatascience.com/artistic-style-transfer-b7566a216431
+https://www.kaggle.com/soumya044/artistic-neural-style-transfer-using-pytorch
+https://www.kaggle.com/basu369victor/style-transfer-deep-learning-algorithm
