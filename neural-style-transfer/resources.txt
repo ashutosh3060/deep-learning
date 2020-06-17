@@ -8,3 +8,4 @@ https://towardsdatascience.com/artistic-style-transfer-b7566a216431
 https://www.kaggle.com/soumya044/artistic-neural-style-transfer-using-pytorch
 https://www.kaggle.com/basu369victor/style-transfer-deep-learning-algorithm
 https://www.kaggle.com/sayakdasgupta/neural-style-transfer-using-vgg19
+
